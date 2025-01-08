@@ -4,7 +4,7 @@ This project is a **YouTube Clone** built using **React** and **Vite**. The appl
 
 ---
 
-## Live Link : [Click here](https://youtubecloneproj.netlify.app/)
+## Live Link : 
 
 ## Features
 
